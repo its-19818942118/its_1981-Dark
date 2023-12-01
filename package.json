@@ -1,0 +1,21 @@
+{
+  "name": "its-1981-dark",
+  "displayName": "its_1981-Dark",
+  "description": "its_19818942118's personal theme :) Enjoy!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "its_1981 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/its_1981 Dark-color-theme.json"
+      }
+    ]
+  }
+}
